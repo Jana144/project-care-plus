@@ -53,7 +53,8 @@ Careplus is a support system that logs tickets and system errors, capturing both
 ## 📊 **Power BI Reporting Layer**
 
 Power BI connects to **Redshift** for visual insights.
-<img width="1281" height="685" alt="careplus_insights_report2" src="https://github.com/user-attachments/assets/b8780327-3934-432e-a95c-a842ccbf470f" />
+<img width="1512" height="727" alt="careplus_insights_report1" src="https://github.com/user-attachments/assets/2ff25049-ed46-4e66-9c6d-c3a1e0c4ea3b" />
+
 
 
 
